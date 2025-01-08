@@ -1,0 +1,9 @@
+{
+  "__resolveType": "site/apps/deco/records.ts",
+  "url": "libsql://origamis-decocx.turso.io",
+  "authToken": {
+    "__resolveType": "website/loaders/secret.ts",
+    "name": "DATABASE_AUTH_TOKEN",
+    "encrypted": "9cfd079096586c77a2bc489cf1e413c29faaed5ff27939a01320e6e6552b9f82f2f24c7bd7ebf16809088ab539a0aa2a239ae12b82d83c306a4fd24d7b9cea65dc1cdea3c03af223153c2dad7d8dff8d8895916c3b29cb9478f28de1578e72639fcc084380ca4e5d5472513e9b02f3e4228fccc82265b77eee358cce409cc646a299de5cd512d539f6ae60e020ecc4a015a3945feca64243467558e31c1cc00d787b8f2cf8e5135255b979959c84aeb3fa9e7718cca95ea92483843a5dd1c5f4764148701136bdefdc069eb13d91151f453d112fa14d88bfbf2bca76c3bf7a81"
+  }
+}
